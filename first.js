@@ -247,7 +247,7 @@
 // print();
 // console.log(print)
 
-// create a function using the"function" keyword that takes a string as an argument & returns the number of vowels in the String
+// create a function using the "function" keyword that takes a string as an argument & returns the number of vowels in the String
 // let count=0;
 // function vowel(str) {
 //   for (let n of str.toLowerCase()) {

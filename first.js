@@ -222,3 +222,22 @@
 // let name = prompt("enter the username");
 // let new_name = '@'+name+name.length;
 // console.log(new_name);
+
+// Functions and methods
+// function Print(msg){
+//   console.log("Smruti Ranjan Samal");
+//   console.log("shiva");
+//   console.log(msg);
+//   console.log(typeof(msg));
+// }
+// Print("3");
+
+// function Print(msg){
+//   console.log("Smruti Ranjan Samal");
+//   console.log("shiva");
+//   console.log(msg);
+//   console.log(typeof(msg));
+//   return msg
+// }
+// Print("3");
+// let value = Print();

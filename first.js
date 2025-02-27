@@ -248,12 +248,12 @@
 // console.log(print)
 
 // create a function using the"function" keyword that takes a string as an argument & returns the number of vowels in the String
-let count=0;
-function vowel(str) {
-  for (let n of str.toLowerCase()) {
-    if (n === "a" || n === "e" || n === "i" || n === "o" || n === "u") count++;
-  }
-  console.log(count);
-}
-vowel('smruti ranjan samal');
+// let count=0;
+// function vowel(str) {
+//   for (let n of str.toLowerCase()) {
+//     if (n === "a" || n === "e" || n === "i" || n === "o" || n === "u") count++;
+//   }
+//   console.log(count);
+// }
+// vowel('smruti ranjan samal');
 

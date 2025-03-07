@@ -257,3 +257,42 @@
 // }
 // vowel('smruti ranjan samal');
 
+// objects and class
+
+// const student ={
+//   fullName :"Smruti ranjan samal",
+//   marks:94.4,
+//   printMarks:function(){
+//     console.log("Marks =", this.marks);
+//   },
+// };
+
+// const employee = {
+//   calctax1(){
+//     console.log("Tax rate is 10%");  //  one type of declaring function
+//   },
+//   calctax2 : function () {
+//     console.log("tax rate is 10%");  // second type of declaring function
+//   }
+// };
+ 
+// const karanArjun = {
+//   salary:50000,
+// };
+
+// karanArjun__proto__=employee;
+
+// classes
+
+class ToyotaCar {
+  start(){
+    console.log("start");
+  }
+
+  stop(){
+    console.log("stop");
+  }
+}
+
+let fortuner = new ToyotaCar();
+

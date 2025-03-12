@@ -54,13 +54,14 @@ h1 {
 }
 
 .msg-container {
-  margin-top:rem;
+  margin:2rem;
+  margin-bottom: 2rem;
 }
-.msg{
+#msg{
   background-color: black;
   color: bisque;
   font-size: 2rem;
-  margin-top: 5rem;
+  margin-top: 1rem;
   display: inline;
   padding: 1rem;
   border-radius: 1rem;
